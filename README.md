@@ -1,8 +1,8 @@
-**Projeto de Simulador de Lava-Rápido em C**
+#Projeto de Simulador de Lava-Rápido em C
 
 O projeto é um simulador interativo de um serviço de lava-rápido, implementado em linguagem C. O programa permite aos Usuários gerenciar e simular um ambiente virtual de lava-rápido, onde Carros são organizados em Filas de Espera para a lavagem. O programa visa emular as operações fundamentais de um lava-rápido real, apresentando um Menu intuitivo para a seleção de Ações.
 
-**Funcionalidades Principais:**
+##Funcionalidades Principais:
 
 **Filas de Espera:**
 O programa dispõe de duas Filas de Espera: uma para a Lavação e outra para a Rua.
