@@ -22,7 +22,7 @@ Os Usuários podem consultar as Filas para visualizar os Carros aguardando lavag
 **Interface Visual:**
 O programa utiliza cores para aprimorar a experiência visual dos Usuários, criando um ambiente mais atraente no terminal.
 
-**Melhorias Possíveis:**
+## **Melhorias Possíveis:**
 
 - Implementação de tratamento de erros e validação de entrada do Usuário.
 - Aprimoramento na gestão de memória, liberando memória alocada quando não é mais necessária.
